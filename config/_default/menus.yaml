@@ -1,0 +1,33 @@
+leftnav:
+- identifier: 7e35cfd1-ca74-e95a-28dd-dc630383151d
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 1b3a419d-6743-09fe-319c-540262e2b04a
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 36d8014a-ab80-064a-7079-ff3fff516356
+  name: Video Resources
+  pageRef: /pages/video-resources
+  weight: 30
+- identifier: 5667c63a-09ff-e158-1e89-d49a0035050d
+  name: Recitations
+  pageRef: /pages/recitations
+  weight: 40
+- identifier: d764ed48-894c-f4be-6a81-65cf1ec5a2c6
+  name: Labs
+  pageRef: /pages/labs
+  weight: 50
+- identifier: 32c54c16-930e-7393-a118-8e53accb9078
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 60
+- identifier: 7b47a09a-07f2-ba1e-d775-a9c636ac0efd
+  name: Exams
+  pageRef: /pages/exams
+  weight: 70
+- identifier: 6a7d6d52-fb6c-7c92-c02b-590d8f6bd242
+  name: Tools
+  pageRef: /pages/tools
+  weight: 80
